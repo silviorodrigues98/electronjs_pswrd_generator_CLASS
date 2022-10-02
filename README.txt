@@ -1,4 +1,4 @@
-This is result of a online tutorial that teaches how to create a simple desktop application using nodeJS and Electron JS.
+This is result of an online tutorial that teaches how to create a simple desktop application using nodeJS and Electron JS.
 
 There are the steps to test it:
 
