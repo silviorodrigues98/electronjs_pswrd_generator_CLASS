@@ -1,0 +1,15 @@
+{
+  "name": "electronjs_pswrd_generator_PROJECT",
+  "version": "1.0.0",
+  "description": "This is result of a online tutorial that teaches how to create a simple desktop application using nodeJS and Electron JS.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron . " 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.0.1"
+  }
+}
